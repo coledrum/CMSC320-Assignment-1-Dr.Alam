@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can applied to meteorology since analyzing large amounts of past and current weather data can help provide forecasts and build predictive models. It can be used in this way to predict extreme weather events and provide appropriate warnings to the areas that will be affected.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will combine the changes from one branch into another through a "merge commit" while rebasing moves/"replays" the commits from one branch to another.
