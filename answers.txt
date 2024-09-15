@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git can be used to manage your source code and for collaboration.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can applied to meteorology since analyzing large amounts of past and current weather data can help provide forecasts and build predictive models. It can be used in this way to predict extreme weather events and provide appropriate warnings to the areas that will be affected.
+
